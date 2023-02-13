@@ -123,7 +123,7 @@ h3{
     transition: 0.2s ease-in-out;
 }
 .feature img{
-    width: auto;
+    width: 72px;
 }
 .feature_content{
     margin-top: 10px;
